@@ -3,7 +3,7 @@ Welcome to GymZone, your personal app to manage and optimize your gym workouts! 
 ## Table of Contents
 - [Features](#Features)
 - [Installation](#Installation)
-- [TechStack](#TechStack)
+- [TechStack](#Tech-Stack)
 
 ## Features
 1. Users can create their own workout plan: Users have the ability to create and customize their personalized workout plans, selecting exercises and defining the structure of their training routine.   
@@ -16,7 +16,7 @@ Users receive notifications at a pre-set time before their scheduled workout, en
 GymZone is available for iOS devices. To set up the app, follow these steps:  
 1. Clone this repository to your computer.  
 2. Run the app on Xcode simulator/your iPhone.
-## TechStack
+## Tech Stack
 - Development Environment: Xcode
 - Programming Language : Swift
 - UI Framework : SwiftUI, UserNotification, Charts, 
