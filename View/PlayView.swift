@@ -2,7 +2,6 @@
 //  PlayView.swift
 //  MyApplication
 //
-//  Created by Giosuè Ciaravola on 23/02/23.
 
 
 import SwiftUI
