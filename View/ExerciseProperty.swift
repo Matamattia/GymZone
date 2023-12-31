@@ -2,8 +2,6 @@
 //  ExerciseProperty.swift
 //  MyApplication
 //
-//  Created by Marco Cerino on 22/02/23.
-//
 
 import SwiftUI
 
